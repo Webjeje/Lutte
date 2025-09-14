@@ -291,7 +291,3 @@ Ici : arbitre = Dupont, bleu = Martin, rouge = Durand, etc.
 
 
 * Médias/texte : proposer **CC BY 4.0**
-
-
-
-Si tu veux, je te fournis aussi un **`README.md` prêt à déposer** dans ton repo (avec une mini capture d’écran en Markdown si tu me donnes un PNG).
